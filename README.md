@@ -69,11 +69,6 @@ I’m a passionate **mobile frontend developer** focused on building high-qualit
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaronwilly&layout=compact&theme=tokyonight)
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=aaronwilly&style=flat-square&color=blue" alt="Profile Views" />
-  
-  *"The future of AI is not just about building intelligent machines, but about creating systems that enhance human capabilities."*
-</div> 
 ---
 
 ## 🤝 Let’s Connect!
