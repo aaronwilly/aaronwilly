@@ -69,6 +69,8 @@ I’m a passionate **mobile frontend developer** focused on building high-qualit
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaronwilly&layout=compact&theme=tokyonight)
 
+![Visitor Count](https://profile-counter.glitch.me/aaronwilly/count.svg)
+
 ---
 
 ## 🤝 Let’s Connect!
